@@ -1,4 +1,4 @@
-# tvar
+<h1><p align="center">tvar</p></h1>
 
 `tvar` is a simple command-line tool written in C for storing and retrieving temporary variable data, such as the output of scans or scripts. All data is stored in `/tmp/tvar.db` and will be destroyed when the system is rebooted (as `/tmp` is cleared on restart on most Unix/Linux systems).
 
