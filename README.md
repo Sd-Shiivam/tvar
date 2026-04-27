@@ -75,7 +75,6 @@ tvar -l
 
 ```
 Usage: tvar [OPTION]
-
   -l           List all stored variable names
   -r VAR       Read and print the data for variable VAR
   -n NAME      Store stdin as a variable with custom name NAME (up to 7 chars)
